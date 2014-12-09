@@ -28,5 +28,6 @@ makepat: Makepat is the main script that creates the hatch pattern. It will ask 
 
 The pattern 'should' be immediatly usable by using its name in the hatch command.
 
+You can make tweaks and recreate the pattern with the same name (caution! no warning on .pat file overwrite) Then test the updated pattern. 
 
 
